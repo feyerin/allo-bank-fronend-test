@@ -19,7 +19,7 @@ SpaceX Rocket Info adalah aplikasi berbasis Vue.js yang menampilkan informasi te
 1. Clone repository:
    ```sh
    git clone https://github.com/feyerin/allo-bank-fronend-test
-   cd spacex-rocket-info
+   cd allo-bank-fronend-test
    ```
 
 2. Install dependencies:
